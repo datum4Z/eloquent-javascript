@@ -1,4 +1,4 @@
-**Contains spoilers for Eloquent Javascript, 3rd Edition.**
+**WARNING!!!: Contains spoilers for Eloquent Javascript, 3rd Edition.**
 
 # Eloquent JavaScript, 3rd Edition by Marijn Haverbeke
 

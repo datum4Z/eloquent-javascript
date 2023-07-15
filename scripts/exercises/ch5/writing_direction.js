@@ -1,4 +1,4 @@
-var SCRIPTS = require('../book_code/scripts.js');
+var SCRIPTS = require('../../book_code/scripts.js');
 
 function dominantDirection(text) {
   let directionCounts = 
